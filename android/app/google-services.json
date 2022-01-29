@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737056293522",
+    "project_id": "flutter-chat-b162f",
+    "storage_bucket": "flutter-chat-b162f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737056293522:android:8c58a57839a8cd97345c4b",
+        "android_client_info": {
+          "package_name": "com.sirlopu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737056293522-b5p6ctu93si6vibgtcbfm0f06hc9ks4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsvByIf3o9CyvHcAlYersot33wk7PEv7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737056293522-b5p6ctu93si6vibgtcbfm0f06hc9ks4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
